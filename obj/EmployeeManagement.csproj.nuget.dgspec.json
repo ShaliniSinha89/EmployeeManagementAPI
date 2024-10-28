@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\POC\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "D:\\ApiClass\\EmployeeManagementAPI\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "D:\\POC\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "D:\\ApiClass\\EmployeeManagementAPI\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\POC\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "D:\\ApiClass\\EmployeeManagementAPI\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "D:\\POC\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectPath": "D:\\ApiClass\\EmployeeManagementAPI\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "D:\\POC\\EmployeeManagement\\obj\\",
+        "outputPath": "D:\\ApiClass\\EmployeeManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
